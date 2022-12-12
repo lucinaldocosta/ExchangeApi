@@ -8,7 +8,7 @@ Nesse projeto vamos a construir um site de exchange aonde poderemos escolher as 
 O site conta com um background animado, um botão de inverter (ao clicar muda as moedas que temos escolhidas), um botão de converter e um caixa de texto para
 Introduzir a quantidade desejada.
 
-Nesse projeto para conseguir realizar esse projeto foi utilizado uma api, funções, eventos, criação de elementos e etc ...
+Nesse projeto para conseguir realizar esse projeto foi utilizado uma api, funções, eventos, criação de elementos e etc...
 
 Se gostou do projeto peço que se subscrevam e dêem like.
 
