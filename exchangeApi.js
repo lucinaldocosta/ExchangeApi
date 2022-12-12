@@ -26,7 +26,7 @@ async function getFirstData(currencyOne, currencyTwo, amount){
 
     inputAmount.value = amount;
     finalResult = amount * resultRequest.conversion_rates[currencyTwo];
-    resultAmount.innerHTML = `${finalResult.toFixed(4)} ${currencyTwo}`;
+    resultAmount.innerHTML = `${finalResult.toFixed(2)} ${currencyTwo}`;
 
     if(firstLoad){
         Object.keys(resultRequest.conversion_rates).forEach((e)=>{
