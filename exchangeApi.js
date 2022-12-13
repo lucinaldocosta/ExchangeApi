@@ -39,7 +39,7 @@ async function getFirstData(currencyOne, currencyTwo, amount){
 };
 
 window.addEventListener("load", ()=>{
-    getFirstData("USD", "EUR", "1");
+    getFirstData("EUR", "BRL", "1");
 });
 
 resultBtn.addEventListener("click", ()=>{
